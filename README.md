@@ -1,6 +1,6 @@
 # Recursive functions, algorithms and examples of their application
 
-## Task 1
+## Task 1 "Recursive file copying"
 
 To start the program write down in a terminal:
 
@@ -30,11 +30,11 @@ The script should accept two command-line arguments: the path to the source dire
 **4. Exception Handling:**
 The code should properly handle exceptions, such as file or directory access errors.
 
-## Task 2
+## Task 2 "Koch snowflake"
 
 Write a Python program that uses recursion to create a "Koch snowflake" fractal, given that the user should be able to specify the level of recursion.
 
-## Task 3 (Optional). Towers of Hanoi
+## Task 3 (Optional). "Towers of Hanoi"
 
 Write a program that performs the movement of disks from rod `A` to rod `C`, using rod `B` as auxiliary. The disks have different sizes and are initially placed on the starting rod in decreasing order of size from top to bottom.
 
