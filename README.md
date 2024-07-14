@@ -5,7 +5,7 @@
 To start the program write down in a terminal:
 
 ```python
-python task_01.py -S picture -O dist
+python task_01.py -S /Users/username/Downloads/images -O /Users/username/Documents/sorted_images
 ```
 
 Write a Python program that recursively copies files from a source directory, moves them to a new directory, and sorts them into subdirectories based on file extensions.
